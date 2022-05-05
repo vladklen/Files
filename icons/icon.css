@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('https://api.allorigins.win/raw?url=https://github.com/vladklen/Files/raw/main/icons/icomoon.woff');
-  src:  url('https://api.allorigins.win/raw?url=https://github.com/vladklen/Files/raw/main/icons/icomoon.woff') format('woff'),
+  src:  url('https://github.com/vladklen/Files/raw/main/icons/icomoon.woff');
+  src:  url('https://github.com/vladklen/Files/raw/main/icons/icomoon.woff') format('woff'),
   font-weight: normal;
   font-style: normal;
   font-display: block;
